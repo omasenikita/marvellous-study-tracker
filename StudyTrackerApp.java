@@ -253,7 +253,7 @@ public class StudyTrackerApp extends Frame
    {
         tracker.exportCSV();
 
-        displayArea.setText("📁 Study logs exported to MarvellousStudy.csv");
+        displayArea.setText(" Study logs exported to MarvellousStudy.csv");
     }
     
 
@@ -276,4 +276,5 @@ public class StudyTrackerApp extends Frame
         new StudyTrackerApp();
     }
 }
+
 
