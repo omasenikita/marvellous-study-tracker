@@ -1,3 +1,11 @@
+/*
+ * Author    : Nikita omase
+ * File Name : StudyTrackerApp.java
+ * Date      : August 17, 2025
+ * Description:
+ * This program implements a GUI-based Study Tracker application using Java AWT
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
@@ -268,3 +276,4 @@ public class StudyTrackerApp extends Frame
         new StudyTrackerApp();
     }
 }
+
